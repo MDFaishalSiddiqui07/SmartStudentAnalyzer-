@@ -1,0 +1,12 @@
+===== SMART STUDENT PERFORMANCE ANALYZER =====
+
+MD Faishal Siddiqui: [17, 18, 21, 22, 20] | Average: 19.60 | Grade: D
+Mohammad Azmat: [24, 22, 20, 21, 19] | Average: 21.20 | Grade: D
+Ayan Khan: [14, 15, 23, 21, 20] | Average: 18.60 | Grade: D
+Sahil: [21, 14, 17, 23, 22] | Average: 19.40 | Grade: D
+Rehan: [21, 2, 22, 21, 25] | Average: 18.20 | Grade: D
+
+Class Average: 19.40
+Topper: Mohammad Azmat (21.20)
+Lowest: Rehan (18.20)
+Generated on: 2025-10-16 09:38:02.963677
